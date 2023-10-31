@@ -1,0 +1,130 @@
+{
+  "Uploaded": "Завантажено",
+  "buttons": {
+    "Upload Image": "Завантажити зображення",
+    "Upload Video": "Завантажити відео",
+    "From Library": "З бібліотеки",
+    "Add Link": "Додати посилання"
+  },
+  "common": {
+    "Create Course": "Створити курс",
+    "Edit Course": "Редагувати курс"
+  },
+  "nameOfSection": {
+    "addIntroInformation": "Додайте вступну інформацію",
+    "addCourseMaterials": "Додайте матеріали курсу",
+    "addMarketingDetails": "Додайте маркетингові деталі",
+    "setPriceForTheCourse": "Встановіть ціну за курс",
+    "reviewTheCourseBeforePublish": "Перегляньте курс перед публікацією"
+  },
+  "inputs": {
+    "Course Name": "Назва курсу",
+    "Select Category": "Виберіть категорію",
+    "Select Subcategory": "Виберіть підкатегорію"
+  },
+  "titles": {
+    "Price": "Ціна",
+    "Coupons": "Купони",
+    "Preview Video": "Перегляд відео",
+    "Course Image": "Зображення курсу",
+    "courseStatus": "Статус курсу",
+    "Keywords": "Ключові слова",
+    "Requirements": "Вимоги",
+    "Short Description": "Короткий опис",
+    "Course Description": "Опис курсу",
+    "About Author": "Про автора",
+    "Course Preview": "Попередній перегляд курсу",
+    "Review Note": "Примітка для рецензії",
+    "Contact Email": "Email для зв'язку",
+    "courseTitle": "Назва курсу",
+    "category": "Категорія",
+    "ageLimit": "Вікове обмеження",
+    "level": "Рівень",
+    "courseLanguage": "Мова курсу",
+    "whatStudentsWillLearn": "Чого навчаться студенти"
+  },
+  "requirements": {
+    "Requirements Added": "Вимог додано",
+    "Edit Requirement": "Редагувати вимогу",
+    "Type a new requirement": "Введіть нову вимогу",
+    "Existing requirements:": "Існуючі вимоги:",
+    "There is no requirements yet": "Поки немає вимог",
+    "New requirement has been added!": "Додано нову вимогу!",
+    "Requirement has been deleted!": "Вимога видалена!",
+    "Requirement has been updated!": "Вимога оновлена!",
+    "Requirement cannot be empty!": "Вимога не може бути порожньою!"
+  },
+  "items": {
+    "Items Added": "Елементів додано",
+    "Edit Item": "Редагувати елемент",
+    "Type a new item": "Введіть новий елемент",
+    "Existing items:": "Існуючі елементи:",
+    "There are no items yet": "Поки немає елементів",
+    "New item has been added!": "Додано новий елемент!",
+    "Item has been deleted!": "Елемент видалений!",
+    "Item has been updated!": "Елемент оновлений!",
+    "Item cannot be empty!": "Елемент не може бути порожнім!"
+  },
+  "terms": {
+    "1 Agreement": "1. Угода",
+    "2 Services & Paid Subscription": "2. Послуги та платна підписка",
+    "3 Rights and Laws": "3. Права та закони",
+    "4 3rd Part Applications": "4. Додатки третіх сторін",
+    "5 Rights you grant us": "5. Права, які ви надаєте нам"
+  },
+  "placeholders": {
+    "Type a Coupon code": "Введіть код купона",
+    "Discount": "Знижка",
+    "Type a new Keyword": "Введіть нове ключове слово",
+    "Type some information about the Course": "Введіть деяку інформацію про курс",
+    "Type short description": "Введіть короткий опис",
+    "sectionTitle": "Назва розділу",
+    "sectionDescription": "Опис розділу",
+    "provideWhat’sNew": "Вкажіть, що нового в цій версії курсу, або будь-які подробиці, які допоможуть під час перегляду",
+    "email": "Електронна пошта",
+    "selectAgeLimit": "Виберіть вікове обмеження",
+    "typeSomeInformationAboutAuthor": "Введіть інформацію про автора"
+  },
+  "review": {
+    "Your Course has been accepted by Reviewer and is currently online": "Ваш курс був прийнятий рецензентом і зараз доступний онлайн"
+  },
+  "price": {
+    "price": "Ціна",
+    "Coupon is not satisfying Base Price conditions": "Купон не відповідає умовам базової ціни",
+    "Error - Price cannot be lower than $basePrice USD": "Помилка - ціна не може бути нижчою за {{basePrice}} USD",
+    "Expiry date": "Дата закінчення: ",
+    "Coupon must include at list 2 special characters and be of lengths from 10 characters": "Купон повинен містити принаймні 2 спеціальних символи і бути довжиною від 10 символів",
+    "Coupon cannot lower price below basePrice USD": "Купон не може знизити ціну нижче {{basePrice}} USD",
+    "Price has been updated": "Ціна була оновлена",
+    "This coupon will not work title_one": "Цей купон не працюватиме",
+    "This coupon will not work title_other": "Ці купони не працюватимуть",
+    "This coupon will not work message_one": "Цей купон знизить ціну нижче базової ціни {{basePrice}}, що робить його непридатним і він не буде активним.",
+    "This coupon will not work message_other": "Ці купони знизять ціну нижче базової ціни {{basePrice}}, що робить їх непридатними і вони не будуть активними.",
+    "Coupon created successfully.": "Купон успішно створено.",
+    "Coupon deleted.": "Купон видалено.",
+    "Custom Price": "Власна ціна",
+    "Desired Price": "Бажана ціна",
+    "Enter custom price": "Введіть власну ціну",
+    "Enter desired price": "Введіть бажану ціну",
+    "The price settings will be applied once this draft is approved and published live.": "Налаштування ціни будуть застосовані після того, як цей чернет буде затверджено і опубліковано.",
+    "What is Smart Price?": "Що таке Smart Price?",
+    "Smart Price description": "Smart Price - це стратегія динамічного ціноутворення, рекомендована для вашого курсу, що спрямована на оптимізацію продажів. Вона коригує ціну курсу в залежності від дня, часу і об'єму користувачів. Smart Price також враховує будь-які глобальні знижки, встановлені Edugram під час спеціальних подій, таких як Різдво, Новий Рік, Чорна п'ятниця тощо. Бажана ціна, яку ви вводите, слугує за замовчуванням відсутність будь-яких знижок.",
+    "What is Custom Price?": "Що таке власна ціна?",
+    "Custom Price description": "Власна ціна відноситься до фіксованої стратегії ціноутворення для вашого курсу. Коли ви обираєте цей варіант, ви встановлюєте регулярну ціну для курсу, яка залишається постійною незалежно від дня, часу, обсягу користувачів або будь-яких глобальних знижок, встановлених Edugram.",
+    "What is Base Price?": "Що таке базова ціна?",
+    "Base Price description": "Базова ціна - це мінімальна ціна, за якою можна продавати курс. Вона встановлена для покриття основних витрат платформи і дозволяє користувачам отримувати прибуток. Ця ціна дозволяє платформі підтримувати свою діяльність і забезпечує стабільність, надаючи користувачам можливість отримувати дохід від продажу курсів.",
+    "Type a Coupon code": "Введіть код купона",
+    "Type Discount": "Введіть знижку",
+    "Expiration Date": "Дата закінчення",
+    "minimumPrice": "Мінімальна ціна"
+  },
+  "keywordsAdded": "Додати ключові слова.",
+  "min3Required": "Мін. к-сть 3",
+  "notCompleted": "НЕ ЗАВЕРШЕНО",
+  "pleaseChecktheDetailsSection": "Деякі розділи ще не завершені. Перегляньте розділ «Деталі» нижче.",
+  "section": "РОЗДІЛ",
+  "sectionStatus": "СТАТУС РОЗДІЛУ",
+  "introduction": "Вступ",
+  "outline": "Структура",
+  "presentation": "Презентація"
+}

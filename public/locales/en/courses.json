@@ -1,0 +1,21 @@
+{
+  "messages": {
+    "Course not found": "Course not found",
+    "Please provide a valid Email address": "Please provide a valid Email address",
+    "Please provide a valid Recipient name": "Please provide a valid Recipient name",
+    "Please provide a valid Sender name": "Please provide a valid Sender name"
+  },
+  "strings": {
+    "Reviews": "Reviews",
+    "Courses": "Courses",
+    "Continue learning": "Continue learning",
+    "Continue": "Continue",
+
+    "Draft": "Draft",
+    "Live": "Live",
+    "In-review": "In-review",
+    "Rejected": "Rejected",
+    "Approved": "Approved",
+    "In-progress": "In-progress"
+  }
+}

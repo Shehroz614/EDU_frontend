@@ -1,0 +1,21 @@
+//Course related limist:
+export const courseTitleTextLimit = 70
+export const courseRequirementTextLimit = 150
+export const courseResultTextLimit = 150
+export const courseShortDescriptionTextLimit = 125
+export const courseKeywordTextLimit = 35
+export const COURSE_REVIEW_NOTE_TEXT_LIMIT = 450
+export const courseMaterialsTitleTextLimit = 70
+export const courseSectionDescriptionTextLimit = 200
+export const courseDescriptionTextLimit = 1200
+export const problemTitleTextLimit = 90
+export const problemDescriptionTextLimit = 700
+export const problemDescriptionTextMin = 50
+export const contactEmailTextLimit = 35
+export const courseKeywordsMaxAmount = 10
+export const courseRequirementsMaxAmount = 10
+export const courseWhatStudentsWillLearnMaxAmount = 10
+export const reviewDescriptionTextLimit = 1000
+export const courseAboutAuthorTextLimit = 600
+export const nameAndLastNameTextLimit = 30
+// export const courseResultLimit = 150;

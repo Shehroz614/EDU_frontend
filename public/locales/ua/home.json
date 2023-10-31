@@ -1,0 +1,9 @@
+{
+  "header": {
+    "searchAnyCourse": "Пошук будь-якого курсу"
+  },
+  "courseInfo": {
+    "hours": "Години",
+    "currency": " Дол."
+  }
+}

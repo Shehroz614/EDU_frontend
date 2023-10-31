@@ -1,0 +1,25 @@
+{
+  "common": {
+    "Login / Registration": "Login / Registration",
+    "Welcome": "Welcome",
+    "Log In": "Log In",
+    "Login to your account": "Login to your account",
+    "Not registered?": "Not registered",
+    "By clicking Register you accept our Terms & Conditions": "By clicking Register you accept our Terms & Conditions",
+    "Receive exclusive offers, personal recommendations and development tips from PSU": "Receive exclusive offers, personal recommendations and development tips from PSU"
+  },
+  "buttons": {
+    "Login": "Login",
+    "Sign In": "Sign In",
+    "Forgot your password?": "Forgot your password?",
+    "Register": "Sign Up",
+    "Registration": "Registration"
+  },
+  "inputs": {
+    "Email": "Email",
+    "Password": "Password",
+    "Repeat Password": "Repeat Password",
+    "First Name": "First Name",
+    "Last Name": "Last Name"
+  }
+}

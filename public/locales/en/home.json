@@ -1,0 +1,9 @@
+{
+  "header": {
+    "searchAnyCourse": "Search any course"
+  },
+  "courseInfo": {
+    "hours": "Hours",
+    "currency": " USD"
+  }
+}

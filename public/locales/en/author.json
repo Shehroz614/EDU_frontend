@@ -1,0 +1,15 @@
+{
+  "common": {
+    "authorNotVerified": "Account not verified: Authors with unverified accounts can create only one draft course and cannot publish. Please verify to unlock additional features."
+  },
+  "buttons": {
+    "Author": "Author",
+    "Courses": "Courses",
+    "Statistics": "Statistics",
+    "Create Course": "Create Course",
+    "Verify Now": "Verify Now"
+  },
+  "course": {
+    "courseDeleted": "Course deleted successfully"
+  }
+}

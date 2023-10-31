@@ -1,0 +1,25 @@
+{
+  "common": {
+    "Login / Registration": "Увійти / Реєстрація",
+    "Welcome": "Ласкаво просимо",
+    "Log In": "Увійти",
+    "Login to your account": "Увійдіть до свого облікового запису",
+    "Not registered?": "Не зареєстровані?",
+    "By clicking Register you accept our Terms & Conditions": "Натискаючи «Зареєструватися», ви приймаєте наші Умови використання",
+    "Receive exclusive offers, personal recommendations and development tips from PSU": "Отримуйте ексклюзивні пропозиції, особисті рекомендації та поради щодо розвитку від PSU"
+  },
+  "buttons": {
+    "Login": "Увійти",
+    "Sign In": "Увійти",
+    "Forgot your password?": "Забули пароль?",
+    "Register": "Зареєструватися",
+    "Registration": "Реєстрація"
+  },
+  "inputs": {
+    "Email": "Електронна пошта",
+    "Password": "Пароль",
+    "Repeat Password": "Повторіть пароль",
+    "First Name": "Ім'я",
+    "Last Name": "Прізвище"
+  }
+}

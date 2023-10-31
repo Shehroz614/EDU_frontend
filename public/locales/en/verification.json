@@ -1,0 +1,21 @@
+{
+  "authorVerification": "Author Verification",
+  "completeYourIdentityCheck": "Complete Your Identity Check",
+  "selectYourCountry": "Select Your Country",
+  "selectCountry": "Select Country",
+  "selectedCountry": "Your current selected country is: {{selectedCountry}}, Profile verification will require Personal & Legal details as per {{selectedCountry}} jurisdiction",
+  "changeCountry": "Change Country",
+  "pleaseProvideDetails": "Please provide these following details:",
+  "whereYouOrYourBusinessIsBased": "Where you or your business is based",
+
+  "provideLegalTaxBankingDetails": "Provide legal, tax, and banking details",
+  "edugramRequiresTheseDetails": "Edugram requires these details to ensure safety, validate content authenticity, and protect course ownership. Your information remains confidential.",
+  "startVerification": "Start Verification",
+  "resumeVerification": "Resume Verification",
+
+  "submitForReview": "Submit for Review",
+  "oneStepAwayFromBeingVerified": "You're one step away from becoming a verified author!",
+  "congratulationMessage": "Congratulations! You've completed your Author Verification. Please submit the application for our final review. Expect an update on your status within 1-2 business days",
+  "verificationSubmitted": "Thank you for verifying your profile, we will review your details and get back to you shortly",
+  "requestSubmitted": "Request submitted, we will get back to you soon"
+}

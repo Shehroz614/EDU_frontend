@@ -1,0 +1,65 @@
+{
+  "Edugram": "Edugram",
+  "Search": "Пошук",
+  "messages": {
+    "Loading": "Завантаження",
+    "Please wait": "Будь ласка, зачекайте",
+    "Something went wrong": "Щось пішло не так"
+  },
+  "header": {
+    "searchAnyCourse": "Шукати курс"
+  },
+  "buttons": {
+    "Continue": "Продовжити",
+    "Submit": "Надіслати",
+    "Save": "Зберегти",
+    "Edit": "Редагувати",
+    "Cancel": "Скасувати",
+    "Review": "Огляд",
+    "preview": "Попередній перегляд",
+    "Add": "Додати",
+    "addSection": "Додати розділ",
+    "Publish": "Опублікувати",
+    "Back to Editing": "Повернутися до редагування",
+    "Back To Log In": "Повернутися до входу",
+    "Sign In": "Увійти",
+    "Sign Up": "Зареєструватися",
+    "Sign In with Google": "Увійти за допомогою Google",
+    "Forgot Password?": "Забули пароль?",
+    "Filter": "Фільтр",
+    "Apply": "Застосувати",
+    "Progress": "Прогрес",
+    "Status": "Статус",
+    "Go To Cart": "Перейти до кошика",
+    "Send": "Надіслати",
+    "Yes": "Так",
+    "No": "Ні",
+    "Accept": "Прийняти",
+    "Decline": "Відхилити",
+    "Play": "Відтворити",
+    "Add To Cart": "Додати до кошика",
+    "Exit Preview": "Вийти з перегляду",
+    "To Checkout": "Оформити замовлення"
+  },
+  "strings": {
+    "Login / Registration": "Увійти / Зареєструватися",
+    "Test": "Тест",
+    "Categories": "Категорії",
+    "Item": "Елемент",
+    "Display on my profile courses I m taking": "Відображати на моєму профілі курси, які я проходжу",
+    "or": "або"
+  },
+  "authentication": {
+    "Log In": "Увійти",
+    "Not registered?": "Не зареєстровані?"
+  },
+  "Icon Text": {
+    "Total Lectures": "Всього лекцій",
+    "Total Time": "Загальний час"
+  },
+  "Course Materials": "Матеріали курсу",
+  "There Is No Course Materials": "Немає матеріалів курсу",
+  "Show Less": "Показати менше",
+  "Show More": "Показати більше",
+  "Next lecture:": "Наступна лекція:"
+}

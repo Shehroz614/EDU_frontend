@@ -1,0 +1,170 @@
+{
+  "whatIsEdugram": "What is Edugram",
+  "ourPartners": "Our Partners",
+  "edugramFor": "Edugram for",
+  "edugramForCreators": "Your optimal toolkit for course creation, management, and promotion. \nPowered by AI, we streamline the journey from course design to student \nenrolment. Unleash education, empower the future.",
+  "students": "Students",
+  "parents": "Parents",
+  "creators": "Creators",
+  "benefits": "Benefits",
+  "ourGoal": "Our goal",
+  "howItWorks": "How it works?",
+  "stillHaveQuestions": "Still have questions?",
+  "joinUs": "Join Us",
+  "getStartedNow": "Get Started Now",
+  "joinNow": "Join Now",
+  "joinEdugram": "Join Edugram",
+  "joinEdugramSlogan": "Edugram, share your knowledge with eager learners, and help shape a brighter future. Let's embark on this journey together!",
+  "connectWithEduSpecialistAndGetAnswers": "Connect with Edu Specialist and Get answers",
+  "connectWithEduSpecialist": "Connect with Edu Specialist",
+  "hasJoinedAlready": "has joined already.",
+  "comingSoon": "Coming Soon",
+  "benefitsForCreators": "Benefits for Creators",
+  "benefitsForCreatorsSubtitle": "Unlock limitless opportunities, reach a global audience, and monetize your knowledge",
+  "trulyAllInOnePlarform": "Truly All-In-One Platform",
+  "trulyAllInOnePlarformSubtitle": " Equip yourself with an extensive toolkit tailored to meet your educational needs",
+  "mainSlogan": "AI-powered, all-in-one \neducation platform \ndesigned for student \nand tutor needs.",
+
+  "shortBenefits": {
+    "noCommission": "No Commission",
+    "onlineCourses": "Online Courses",
+    "liveCourses": "Live Courses",
+    "subscriptions": "Subscriptions",
+    "podcasts": "Podcasts"
+  },
+
+  "mainAuthorBenefits": {
+    "edugram500": "No commission with Edugram 500",
+    "edugram500Description": "Edugram 500 is an exclusive program for our first 500 authors. \nIt offers benefits including waived first-year commission fees on all courses sold, annual bonuses complimentary event invites, free certificates, premium support, and priority infeature development to meet the unique needs of our valued authors.",
+
+    "easyCourseCreation": "Easy Course Creation",
+    "easyCourseCreationDescription": "Edugram offers a hassle-free course creation process that allows instructors to build and publish engaging courses using our intuitive tools easily.\nWith our user-friendly platform, creating, managing and selling a course has never been easier.",
+
+    "createInOneDrop": "Create Course in a Single Drop",
+    "createInOneDropDescription": "Already have a course? Simply drag and drop your content. \nEdugram will automatically convert videos into structured lectures for you.",
+
+    "eduAI": "Edu AI",
+    "eduAIDescription": "Our Edu AI handles the management of sales, marketing, and customer relations, enabling course creators to focus solely on developing high-quality content. \nWith Edugram, creators can trust that their courses are being marketed and sold effectively, allowing them to concentrate on what they do best - creating exceptional content.",
+
+    "freeAudioTranslation": "Free audio translation",
+    "freeAudioTranslationDescription": "With Edugram, instructors and authors can expand their audience by reaching learners in other languages, at no cost. Our platform offers professionally translated and recorded versions of courses, allowing instructors to share their expertise with a global audience and increase their impact in the education community.",
+
+    "robustContentSecurity": "Robust Content Security",
+    "robustContentSecurityDescription": "Edugram prioritizes the safety and security of content by utilizing the latest technology to minimize leaks and storing content in multiple data centers toensure protection during unforeseen circumstances.\nAdditionally, Edugram implements other safety measures such as access control, data encryption, and regular backups to further protect content and maintain its integrity.",
+
+    "customFeatureDevelopment": "Custom Feature Development",
+    "customFeatureDevelopmentDescription": "Edugram offers authors the unique benefit of being able to request custom feature development that doesn't currently exist on the platform. This means that authors have the flexibility to design and create courses tailored to their specific needs, ensuring an unparalleled learning experience for their students.",
+
+    "transaprentRevenue": "Transparent Revenue",
+    "transaprentRevenueDescription": "At Edugram, we are committed to empowering course creators by taking on operational tasks such as sales, promotions, marketing, hosting, content delivery, payments, and customer support. This enables creators to focus solely on producing exceptional educational content."
+  },
+
+  "authorBenefits": {
+    "courses": "Courses",
+    "coursesDescription": "Easily create, manage, and launch your courses on Edugram.",
+
+    "smartPricing": "Smart Pricing",
+    "smartPricingDescription": "AI automatically adjusts Course Price based on popularity, visitors, day of the week and more.",
+
+    "aiBoost": "AI Boost",
+    "aiBoostDescription": "Enhance sales with AI-backed marketing & analytics.",
+
+    "easyCreation": "Easy Creation",
+    "easyCreationDescription": "User-friendly tools for intuitive course design.",
+
+    "subscriptions": "Subscriptions",
+    "subscriptionsDescription": "Offer exclusive videos, podcasts, blogs, and more to monthly subscribers.",
+
+    "subscriptionTiers": "Subscription Tiers",
+    "subscriptionTiersDescription": "Offer Basic, Premium, or Platinum access levels tailored to subscriber needs.",
+
+    "contentDonations": "Content Donations",
+    "contentDonationsDescription": "Share content for free & receive gratitude via donations.",
+
+    "bundledCourses": "Bundled Courses",
+    "bundledCoursesDescription": "Group courses for structured learning paths.",
+
+    "courseVersions": "Course Versions",
+    "courseVersionsDescription": "Edit a new version without affecting current students; publish when ready.",
+
+    "collaborativeCreation": "Collaborative Creation",
+    "collaborativeCreationDescription": "Invite peers to team up and co-create comprehensive courses together.",
+
+    "eduBlogs": "EduBlogs",
+    "eduBlogsDescription": "Share knowledge via blogs, free or paid.",
+
+    "courseTiers": "Course Tiers",
+    "courseTiersDescription": "Create course packages for diverse learning needs & preferences.",
+
+    "authorDashboard": "Author Dashboard",
+    "authorDashboardDescription": "Track earnings, views, and more in one place.",
+
+    "courseAnalytics": "Course Analytics",
+    "courseAnalyticsDescription": "Monitor student engagement, sales & course activities.",
+
+    "taxFiles": "Tax Files",
+    "taxFilesDescription": "Receive detailed earnings reports for tax purposes.",
+
+    "studentConnect": "Student Connect",
+    "studentConnectDescription": "Engage with students, review work, answer queries.",
+
+    "deepInsights": "Deep Insights",
+    "deepInsightsDescription": "Understand your audience's preferences & needs.",
+
+    "growFollowers": "Grow Followers",
+    "growFollowersDescription": "Build & engage your Edugram community.",
+
+    "eduAlerts": "Edu Alerts",
+    "eduAlertsDescription": "Regularly update & notify your students & followers.",
+
+    "couponsAndDeals": "Coupons & Deals",
+    "couponsAndDealsDescription": "Boost course sales with attractive discount offers.",
+
+    "effortlessPayments": "Effortless Payments",
+    "effortlessPaymentsDescription": "Post courses, sell automatically in 46 countries.",
+
+    "universalSubtitles": "Universal Subtitles",
+    "universalSubtitlesDescription": "Content auto-translated to 20+ languages.",
+
+    "audioTranslations": "Audio Translations",
+    "audioTranslationsDescription": "Edugram auto-translates popular courses to major languages for broader reach.",
+
+    "priceControl": "Price Control",
+    "priceControlDescription": "You decide the pricing for your courses.",
+
+    "liveStreams": "Live Streams",
+    "liveStreamsDescription": "Host live classes, workshops, events & save recordings for later access.",
+
+    "eduMentor": "EduMentor",
+    "eduMentorDescription": "Offer personalized guidance, from one-on-one sessions to group mentorship.",
+
+    "digitalShop": "Digital Shop",
+    "digitalShopDescription": "Sell diverse digital content, from ebooks to videos.",
+
+    "learnerInsights": "Learner Insights",
+    "learnerInsightsDescription": "Dive deep into student engagement, preferences, and progress analytics.",
+
+    "timedRelease": "Timed Release",
+    "timedReleaseDescription": "Decide when your course content goes live.",
+
+    "inviteAndEarn": "Invite & Earn",
+    "inviteAndEarnDescription": "Benefit from every referral you make.",
+
+    "quizzes": "Quizzes",
+    "quizzesDescription": "Engage your audience with interactive learning quizzes.",
+
+    "learnAnywhere": "Learn Anywhere",
+    "learnAnywhereDescription": "Courses accessible on mobile for learning on-the-go."
+  },
+
+  "edugramGoals": {
+    "authorsToolkit": "The Ultimate Toolkit for Authors",
+    "authorsToolkitDescription": "At Edugram, our goal is to provide authors with an unparalleled toolkit for seamless course creation. With a simple interface, live support, and smart analytics, we help you build standout courses with ease.",
+
+    "marketingAi": "Ignite Your Reach with Powerful Marketing and AI",
+    "marketingAiDescription": "Go global with Edugram! Our AI and targeted marketing catapult your content to global audiences. Bring in your existing followers, benefit from referrals, and embrace the boundless reach of your educational impact.",
+
+    "earningsSolutions": "Skyrocket Your Earnings with Smart Solutions",
+    "earningsSolutionsDescription": "Our Smart Pricing system uses market trends to set prices that work. With course bundles, subscriptions, study programs, promotions, business collaborations, and partnerships with schools and governments, we’re here to multiply your income streams."
+  }
+}

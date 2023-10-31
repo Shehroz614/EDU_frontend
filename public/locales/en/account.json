@@ -1,0 +1,38 @@
+{
+  "account": "Account",
+  "Personal info": "Personal Info",
+  "Provide personal details and how we can reach you": "Provide personal details and how we can reach you",
+  "Author info": "Author Info",
+  "This is what will be displayed on your author's page, which is visible to your students.": "This is what will be displayed on your author's page, which is visible to your students.",
+  "Login & Security": "Login & Security",
+  "Modify your secret code and fortify the safety of your profile": "Modify your secret code and fortify the safety of your profile",
+  "Payments & Payouts": "Payments & Payouts",
+  "Examine financial transactions, voucher usage, and gift card history": "Examine financial transactions, voucher usage, and gift card history",
+  "Taxes": "Taxes",
+  "Administer your taxpayer credentials and related paperwork": "Administer your taxpayer credentials and related paperwork",
+  "Notifications": "Notifications",
+  "Set your alert preferences and your favored means of contact": "Set your alert preferences and your favored means of contact",
+  "Privacy & Sharing": "Privacy & Sharing",
+  "Oversee your private information, affiliated services, and preferences regarding data sharing": "Oversee your private information, affiliated services, and preferences regarding data sharing",
+  "Contact support": "Contact Support",
+  "FAQ": "FAQ",
+  "Report a problem": "Report a Problem",
+  "Log out": "Log Out",
+  "Name": "Name",
+  "Last name": "Last name",
+  "Submit": "Submit",
+  "Date of birth": "Date of Birth",
+  "Add date of birth": "Add Date of Birth",
+  "searchAnyCourse": "Search Any Course",
+  "Upload photo": "Upload photo",
+  "Click to upload": "Click to upload ",
+  "or drug an drop": "or drag and drop",
+  "Scale": "Scale",
+  "Cancel": "Cancel",
+  "Save Avatar": "Save Avatar",
+
+  "Do not use special symbols, numbers, or emojis.": "Do not use special symbols, numbers, or emojis.",
+  "You have reached the length limit": "You have reached the {{type}} length limit"
+}
+}
+}

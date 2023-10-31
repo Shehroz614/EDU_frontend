@@ -1,0 +1,71 @@
+{
+  "Edugram": "Edugram",
+  "Search": "Search",
+  "messages": {
+    "Loading": "Loading",
+    "Please wait": "Please wait",
+    "Something went wrong": "Something went wrong"
+  },
+  "header": {
+    "searchAnyCourse": "Search Any Course"
+  },
+  "buttons": {
+    "Continue": "Continue",
+    "Submit": "Submit",
+    "Edit": "Edit",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Review": "Review",
+    "preview": "Preview",
+    "Add": "Add",
+    "addSection": "Add Section",
+    "Publish": "Publish",
+    "Back to Editing": "Back to Editing",
+    "Back To Log In": "Back to log in",
+    "Sign In": "Sign In",
+    "Sign Up": "Sign Up",
+    "Sign In with Google": "Sign In with Google",
+    "Forgot Password?": "Forgot Password?",
+    "Filter": "Filter",
+    "Apply": "Apply",
+    "Progress": "Progress",
+    "Status": "Status",
+    "Go To Cart": "Go to cart",
+    "Send": "Send",
+    "Yes": "Yes",
+    "No": "No",
+    "Accept": "Accept",
+    "Decline": "Decline",
+    "Play": "Play",
+    "Add To Cart": "Add To Cart",
+    "Exit Preview": "Exit Preview",
+    "To Checkout": "To Checkout",
+    "Buy Now": "Buy Now",
+    "Delete": "Delete",
+    "Select All": "Select All",
+    "Deselect All": "Deselect All",
+    "Done": "Done"
+  },
+  "strings": {
+    "Login / Registration": "Login / Registration",
+    "Test": "Test",
+    "Categories": "Categories",
+    "Item": "Item",
+    "Display on my profile courses I m taking": "Display on my profile courses I'm taking",
+    "or": "or"
+  },
+  "authentication": {
+    "Log In": "Log In",
+    "Not registered?": "Not registered?"
+  },
+  "Icon Text": {
+    "Total Lectures": "Total lectures",
+    "Total Time": "Total time"
+  },
+  "Course Materials": "Course Materials",
+  "There Is No Course Materials": "There is no Course Materials",
+  "Show Less": "Show Less",
+  "Show More": "Show More",
+
+  "Next lecture:": "Next lecture:"
+}

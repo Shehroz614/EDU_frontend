@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.tabWidth": 2,
+  "prettier.useEditorConfig": false,
+  "prettier.requireConfig": false,
+  "cSpell.words": ["Edugram"]
+}

@@ -1,0 +1,50 @@
+.ButtonCheckout {
+  margin-left: 'auto';
+  margin-right: 'auto';
+  padding: '10px 40px';
+  background-color: #007bff;
+}
+
+.input {
+  border: 1px solid #b1b1b1;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  background-color: white !important;
+}
+
+.floating-input-container {
+  position: relative;
+  width: 100%;
+}
+
+.floating-input {
+  width: 100%;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid #b1b1b1;
+  box-sizing: border-box;
+}
+
+.floating-label {
+  position: absolute;
+  left: 20px;
+  top: 12px;
+  font-size: 12px;
+  color: #b1b1b1;
+  transition: all 0.2s ease-in-out;
+  transform-origin: left top;
+}
+
+.float {
+  top: 0;
+  font-size: 10px;
+}
+
+.horizontal-bar {
+  width: 80%;
+  height: 1px;
+  background-color: #cdcdcd;
+  margin-left: auto;
+  margin-right: auto;
+}

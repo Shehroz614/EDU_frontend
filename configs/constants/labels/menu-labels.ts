@@ -1,0 +1,16 @@
+export const categoriesLabel = 'Categories'
+
+export const searchLabel = 'Search Any Course'
+
+export const myCoursesLable = 'My Courses'
+export const myCartLabel = 'My Cart'
+export const myAccountLabel = 'Account'
+export const helpLabel = 'Help'
+export const supportLabel = 'Support'
+export const paymentMethodsLabel = 'Payments'
+export const languageLabel = 'Language'
+export const logoutLabel = 'Log Out'
+export const settingsPageLabel = 'Settings'
+export const profilePageLabel = 'My Profile'
+export const profilePageStudent = 'Student'
+export const profilePageAuthor = 'Author'

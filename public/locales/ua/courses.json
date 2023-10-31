@@ -1,0 +1,17 @@
+{
+  "messages": {
+    "Course not found": "Курс не знайдено"
+  },
+  "strings": {
+    "Reviews": "Відгуки",
+    "Courses": "Курси",
+    "Continue learning": "Продовжити навчання",
+    "Continue": "Продовжити",
+    "Draft": "Чернетка",
+    "Live": "Онлайн",
+    "In-review": "На перегляді",
+    "Rejected": "Відхилено",
+    "Approved": "Схвалено",
+    "In-progress": "У процесі"
+  }
+}
